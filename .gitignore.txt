@@ -1,0 +1,15 @@
+# Ignore private data and keys
+config/config.json
+.env
+
+# Ignore browser sessions (so you stay logged in locally but don't share it)
+data/sessions/
+
+# Ignore Python artifacts
+__pycache__/
+venv/
+.pytest_cache/
+
+# Ignore generated application files
+*.pdf
+data/logs/*.csv
