@@ -1,0 +1,10 @@
+{
+  "user_profile": {
+    "name": "Kshitish Jha",
+    "target_roles": ["Saviynt Engineer", "IAM Senior Analyst"],
+    "location": "Gurugram, India"
+  },
+  "api_keys": {
+    "gemini_api": "YOUR_API_KEY_HERE"
+  }
+}
